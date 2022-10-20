@@ -3,5 +3,3 @@ x=input("enter your first num: ")
 y=input("enter your second num: ")
 if (x>y) :
     print(x)
-else :
-    print(y)
