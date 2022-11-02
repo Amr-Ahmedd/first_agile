@@ -1,5 +1,12 @@
-# task one Ai
-x=input("enter your first num: ")
-y=input("enter your second num: ")
-if (x>y) :
-    print(x)
+x = int(input("Enter the list size "))
+size_list = []
+print("enter values of your list ")
+
+for i in range(0, x):
+    item = input()
+    if item.isdigit():
+        size_list.append(item)
+print("User list is ", size_list)
+print("1")
+print("2")
+print("3")
