@@ -8,3 +8,6 @@ for i in range(0, x):
         size_list.append(item)
 print("User list is ", size_list)
 print("1")
+print("2")
+print('x')
+print('x')
