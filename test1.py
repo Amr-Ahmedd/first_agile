@@ -8,3 +8,5 @@ for i in range(0, x):
         size_list.append(item)
 print("User list is ", size_list)
 print("1")
+amr = 31
+am = 1
